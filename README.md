@@ -1,6 +1,4 @@
------------------------------------------------------
-#Bismillah
-#Assalamu-Alaikum 
+------------------------------------------
 
 [!] Tmvenom :- 
   Tmvenom is a python based tool specially designed for
